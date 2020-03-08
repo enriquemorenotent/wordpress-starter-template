@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*
+Theme Name: Theme name
+Author: Enrique Moreno Tent
+Author URI: https://enriquemorenotent.com/
+Description: A theme created for <name-of-customer>
+Version: 1.0
+*/
+
+body {
+  /* Set web font */
+  font-family: Roboto;
+
+  /* Set color variables */
+  --foo-yellow: #ffc801;
+  --foo-yellow-hover: #ffd53d;
+}
